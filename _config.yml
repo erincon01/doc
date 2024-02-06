@@ -1,8 +1,49 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+
+title: Aprende
+description: Guía de cosas en las que avanzo en mi día a día
 theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: https://erincon01.github.io/doc
 
 aux_links:
-  Template Repository: https://github.com/erincon01/doc
+  erincon01@github: https://github.com/erincon01
+
+#color_scheme: light (default)
+#color_scheme: dark
+
+search_enabled: true
+search.button: true
+
+search.previews: 3 -- default
+
+collections:
+  AZR:
+    permalink: "/:collection/:path:output_ext"
+    output: true
+  SQL:
+    permalink: "/:collection/:path:output_ext"
+    output: true
+  COSAS:
+    permalink: "/:collection/:path:output_ext"
+    output: true
+
+just_the_docs:
+  collections:
+    AZR:
+      name: Azure
+      nav_exclude: false
+      nav_fold: false
+      search_exclude: false
+    SQL:
+      name: SQL Server
+      nav_exclude: false
+      nav_fold: false
+      search_exclude: false
+    COSAS:
+      name: Varios
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: false
+
+

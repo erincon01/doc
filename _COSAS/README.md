@@ -1,3 +1,9 @@
+---
+title: Just the Docs - Readme
+layout: default
+nav_order: 5
+---
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:

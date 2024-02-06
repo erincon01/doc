@@ -57,6 +57,8 @@ Nada es gratis. Escribo porque me gusta aprender. Me gusta
 {: .highlight }
 - Crear ejemplos plantilla siguiendo guia de estilo y de formato.
 - Explicar como aportar vía github. La idea es que cualquiera con interés pueda hacer PR.
+
+[guia para publicar](guia-para-publicar.md)
   
 ## Cómo revisar el contenido
 Hay que revisar el contenido para aprender cosas de valor.

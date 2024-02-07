@@ -51,18 +51,20 @@ Utiliza este foro para consolidar tus ideas. Utilizalo para quitarte el "bloqueo
 Utilizalo para mostrar lo que sabes. Utilizalo para enseñar al mundo.
 
 ## Escribe para mejorar
-Nada es gratis. Escribo porque me gusta aprender. Me gusta 
+Nada es gratis. Aquí escribimos porque nos gusta aprender. De paso, si consigues que otros aprendan mejor ahí, pero el primer objetivo es aprender. Creemos que las cosas cuestan, que requieren de esfuerzo. Tienes que invertir tiempo. Un bien limitado, pero tangible. 1h/día, 2h/día, 3h/día, 8h/semana, 10h/semana, 12h/semana, 15h/mes, 30h/mes, 40h/mes... tu defines tu tiempo, tu esfuerzo. Cuanto más mejor, mucho es demasiado, recuerda que puede ser adictivo, como otras cosas...
 
 ## Cómo participar
-{: .highlight }
-- Crear ejemplos plantilla siguiendo guia de estilo y de formato.
-- Explicar como aportar vía github. La idea es que cualquiera con interés pueda hacer PR.
-
+**PENDIENTE**
+- Crear ejemplos referencia siguiendo guia de estilo y de formato.
+- Explicar cómo crear contenido con VS Code + MD
+- Mostrar esqueleto de categorías
+- Mostrar como aportar vía github. (fork + PR)
+  
 [guia para publicar](guia-para-publicar.md)
   
 ## Cómo revisar el contenido
-Hay que revisar el contenido para aprender cosas de valor.
+**PENDIENTE**
+El contenido necesita cierta moderación. Sencilla, pero moderación.
+Por ejemplo, cada publicación necesita que haya 2 contribuidores que aprueben la publicación.
+Via PR debería ser sencillo. Estudiar como explicarlo y hacerlo
 
-{: .highlight }
-- Debemos revisar Deberíamos validar el contenido
-- Github 

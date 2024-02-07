@@ -7,7 +7,7 @@ remote_theme: just-the-docs/just-the-docs
 url: https://erincon01.github.io/doc
 
 aux_links:
-  erincon01@github: https://github.com/erincon01
+  erincon01@github: https://github.com/erincon01/doc
 
 #color_scheme: light (default)
 #color_scheme: dark
@@ -17,31 +17,33 @@ search.button: true
 
 search.previews: 3 -- default
 
+
+
 collections:
-  AZR:
-    permalink: "/:collection/:path:output_ext"
+  Azure:
+    permalink: "/:collection/:path/"
     output: true
-  SQL:
-    permalink: "/:collection/:path:output_ext"
+  SQLServer:
+    permalink: "/:collection/:path/"
     output: true
-  COSAS:
-    permalink: "/:collection/:path:output_ext"
+  SobreDoc:
+    permalink: "/:collection/:path/"
     output: true
 
 just_the_docs:
   collections:
-    AZR:
+    Azure:
       name: Azure
       nav_exclude: false
       nav_fold: false
       search_exclude: false
-    SQL:
+    SQLServer:
       name: SQL Server
       nav_exclude: false
       nav_fold: false
       search_exclude: false
-    COSAS:
-      name: Varios
+    SobreDoc:
+      name: About
       nav_exclude: false
       nav_fold: true
       search_exclude: false

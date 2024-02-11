@@ -17,35 +17,50 @@ search.button: true
 
 search.previews: 3 -- default
 
-
-
 collections:
-  Azure:
+  DBA:
     permalink: "/:collection/:path/"
     output: true
-  SQLServer:
+  DevOps:
     permalink: "/:collection/:path/"
     output: true
-  SobreDoc:
+  SecOps:
     permalink: "/:collection/:path/"
     output: true
+  About:
+    permalink: "/:collection/:path/"
+    output: true
+  JustTheDocs:
+    permalink: "/:collection/:path/"
+    output: true
+
 
 just_the_docs:
   collections:
-    Azure:
-      name: Azure
+    DBA:
+      name: DBA
       nav_exclude: false
       nav_fold: false
       search_exclude: false
-    SQLServer:
-      name: SQL Server
+    DevOps:
+      name: DevOps
       nav_exclude: false
       nav_fold: false
       search_exclude: false
-    SobreDoc:
+    SecOps:
+      name: SecOps
+      nav_exclude: false
+      nav_fold: false
+      search_exclude: false
+    About:
       name: About
       nav_exclude: false
       nav_fold: true
       search_exclude: false
+    JustTheDocs:
+      name: Just The Docs
+      nav_exclude: false
+      nav_fold: true
+      search_exclude: true
 
 

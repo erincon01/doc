@@ -1,5 +1,5 @@
 ---
-title: Menu 1 - DBA
+title: DBA - Admin
 layout: default
 has_children: true
 nav_order: 1

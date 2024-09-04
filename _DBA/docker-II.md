@@ -1,7 +1,8 @@
 ---
 title: SQL Server en Docker (II)
 layout: default
-nav_exclude: true
+nav_order: 2
+parent: Data - Dev
 
 ---
 
